@@ -8,7 +8,7 @@
     "version": "1.0.0",
     "require": {
         "magento/framework": ">=102.0.1 <103.0.8",
-        "bold-commerce/module-checkout-payment-booster": "^2.3.1"
+        "bold-commerce/module-checkout-payment-booster": "^2.3"
     },
     "autoload": {
         "files": [
